@@ -6,11 +6,10 @@
 <div align="center">
   <h3>
     <a href="https://amustafaozkayam-weather-app.herokuapp.com/">
-      Project
+      Project 
     </a>
-     | 
+     
   
- 
   </h3>
 </div>
 
