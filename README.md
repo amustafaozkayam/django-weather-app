@@ -27,7 +27,6 @@
 <!-- OVERVIEW -->
 
 ## Overview
-
 ![screenshot](Animation.gif)
 
 ### Built With
