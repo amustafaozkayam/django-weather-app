@@ -61,5 +61,6 @@ $ python manage.py runserver
 - Information for your projects
 
 ## Contact
-
+https://www.linkedin.com/in/mustafa-ozkaya/
+amustafaozkayam@gmail.com
 
