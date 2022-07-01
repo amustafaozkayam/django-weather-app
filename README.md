@@ -41,7 +41,7 @@
 
 
 # Clone this repository
-$ git clone https://github.com/amustafaozkayam/django-quiz-app.git
+$ git clone https://github.com/amustafaozkayam/django-weather-app.git
 
 # Install dependencies
     $ python -m venv env
